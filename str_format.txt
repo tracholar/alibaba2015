@@ -1,0 +1,42 @@
+user_active_hours = dict()
+	item_active_hours = dict()
+	cat_active_hours = dict()
+	
+	user_item_active_hours = dict()
+	user_cat_active_hours = dict()
+	
+	user_click_count = dict()
+	user_star_count = dict()
+	user_add_cart_count = dict()
+	user_buy_count = dict()
+	
+	user_buy_items = dict()
+	user_buy_cats = dict()
+	user_click_items = dict()
+	user_click_cats = dict()
+	user_star_items = dict()
+	user_star_cats = dict()
+	user_buy_items = dict()
+	user_buy_cats = dict()
+	
+	item_click_count = dict()
+	item_star_count = dict()
+	item_add_cart_count = dict()
+	item_buy_count = dict()
+	
+	cat_click_count = dict()
+	cat_star_count = dict()
+	cat_add_cart_count = dict()
+	cat_buy_count = dict()
+	
+	user_item_click_count = dict()
+	user_item_star_count = dict()
+	user_item_add_cart_count = dict()
+	user_item_buy_count = dict()
+	
+	
+	user_cat_click_count = dict()
+	user_cat_star_count = dict()
+	user_cat_add_cart_count = dict()
+	user_cat_buy_count = dict()
+	
